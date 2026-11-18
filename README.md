@@ -3,10 +3,6 @@
 Vinay Nair  
 NetID: van220003
 
-## Google Colab Notebook
-
-https://colab.research.google.com/drive/1xcuiu1YkNT-d8uOalWsV540DeGj8ZP-_?usp=sharing
-
 ## GitHub Repository
 
 https://github.com/VinayAnupNair/Transformers
